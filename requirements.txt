@@ -1,0 +1,41 @@
+
+wheel
+
+#win32clipboard
+
+
+pyperclip
+#s = pyperclip.paste()
+#pyperclip.copy(s)
+
+
+easygui
+
+loguru
+
+python-docx
+
+pandas
+numpy
+openpyxl
+
+comtypes
+
+# PDF Scraping
+pymupdf
+# import fitz
+
+tabula
+
+# progress for pandas
+tqdm
+matplotlib
+
+dateparser
+# from dateparser.search import search_dates
+# search_dates(str)[0][1]
+
+jupyter 
+ipywidgets
+
+pikepdf
